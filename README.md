@@ -30,5 +30,5 @@ We strive to maintain a respectful and inclusive community. Please review our [c
 
 ## Contact
 
-If you have any questions or comments, feel free to reach out to us at [email address](mailto:info.ba@vitapro.com.ec).
+If you have any questions or comments, feel free to reach out to us at [info.ba@vitapro.com.ec](mailto:info.ba@vitapro.com.ec).
 
