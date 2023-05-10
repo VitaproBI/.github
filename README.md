@@ -17,8 +17,9 @@ Here are some of the projects we are currently working on:
 Meet the members of our team:
 
 - Info BA: Department account
-- Jane Smith: Role and brief bio.
-- Joe Bloggs: Role and brief bio.
+- Angel Catagua: BI Lead.
+- Juan Pablo Cadena: Data Master Analyst.
+- Daniela Landeta: BI intern.
 
 ## Contributing
 
