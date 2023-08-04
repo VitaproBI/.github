@@ -17,9 +17,10 @@ Here are some of the projects we are currently working on:
 Meet the members of our team:
 
 - Info BA: Department account
-- Angel Catagua: BI Lead.
+- Angel Catagua: Data Lead.
 - Juan Pablo Cadena: Data Master Analyst.
-- Daniela Landeta: BI intern.
+- Daniela Landeta: BI Intern.
+- Kevin Farinango: External consultor.
 
 ## Contributing
 
