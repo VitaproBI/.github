@@ -20,7 +20,7 @@ Meet the members of our team:
 - Angel Catagua: Data Lead.
 - Juan Pablo Cadena: Data Master Analyst.
 - Daniela Landeta: BI Intern.
-- Kevin Farinango: External consultor.
+- Kevin Farinango: External consultant.
 
 ## Contributing
 
