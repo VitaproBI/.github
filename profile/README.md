@@ -24,11 +24,11 @@ Meet the members of our team:
 
 ## Contributing
 
-We welcome contributions from anyone who is interested in our work! If you're interested in contributing, please see our [contribution guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions from anyone who is interested in our work! If you're interested in contributing, please see our [contribution guidelines](profile/CONTRIBUTING.md) for more information.
 
 ## Code of Conduct
 
-We strive to maintain a respectful and inclusive community. Please review our [code of conduct](CODE_OF_CONDUCT.md) before participating in any of our projects or discussions.
+We strive to maintain a respectful and inclusive community. Please review our [code of conduct](profile/CODE_OF_CONDUCT.md) before participating in any of our projects or discussions.
 
 ## Contact
 
