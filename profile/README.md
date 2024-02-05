@@ -17,10 +17,16 @@ Here are some of the projects we are currently working on:
 Meet the members of our team:
 
 - Info BA: Department account
-- Angel Catagua: Data Lead.
-- Juan Pablo Cadena: Data Master Analyst.
+- Angel Catagua: Formerly Data Lead. Now part of the Data and Analytics department as its Lead
+- Juan Pablo Cadena: Data Master Analyst who moved to Pricing and Commericla Conditions department.
+
+## Departurers
+We bid farewell to:
+
 - Daniela Landeta: BI Intern.
 - Kevin Farinango: External consultant.
+
+Their contributions have been invaluable, and we wish them success in their future endeavors.
 
 ## Contributing
 
